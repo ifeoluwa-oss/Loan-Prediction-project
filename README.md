@@ -19,5 +19,4 @@ Tools
 
 Python · Pandas · Scikit-learn · Seaborn
 
-![The San Juan Mountains are beautiful]
-(/Loan predict pic.png "San Juan Mountains")
+![The San Juan Mountains are beautiful](./Loan predict pic.png "San Juan Mountains")
