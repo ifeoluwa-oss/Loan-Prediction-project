@@ -1,5 +1,7 @@
 # Loan Default Prediction
 
+![Loan default](loan_predict_pic.png "Loan predictions")
+
 ## 0verview
 Predicts loan default risk from borrower data using classification models, built for a fictional lending company (LoanAnalytics Inc.) evaluating loan applicants.
 
@@ -19,4 +21,3 @@ Tools
 
 Python · Pandas · Scikit-learn · Seaborn
 
-![Loan default](loan_predict_pic.png "San Juan Mountains")
