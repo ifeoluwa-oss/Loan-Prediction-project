@@ -1,6 +1,6 @@
 # Loan Default Prediction
 
-![Loan default](loan_predict_pic.png "Loan predictions")
+![Loan default](loan_approval.jpeg "Loan predictions")
 
 ## 0verview
 Predicts loan default risk from borrower data using classification models, built for a fictional lending company (LoanAnalytics Inc.) evaluating loan applicants.
