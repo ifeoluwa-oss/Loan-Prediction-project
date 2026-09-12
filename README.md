@@ -19,4 +19,4 @@ Tools
 
 Python · Pandas · Scikit-learn · Seaborn
 
-![Loan default](./loan_predict_pic.png "San Juan Mountains")
+![Loan default](loan_predict_pic.png "San Juan Mountains")
