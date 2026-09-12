@@ -18,3 +18,6 @@ The most "accurate" model (Random Forest, 89%) barely caught any real defaulters
 Tools
 
 Python · Pandas · Scikit-learn · Seaborn
+
+![The San Juan Mountains are beautiful]
+(/assets/images/san-juan-mountains.jpg "San Juan Mountains")
