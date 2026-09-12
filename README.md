@@ -20,4 +20,4 @@ Tools
 Python · Pandas · Scikit-learn · Seaborn
 
 ![The San Juan Mountains are beautiful]
-(/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+(/Loan predict pic.png "San Juan Mountains")
